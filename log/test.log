@@ -16853,3 +16853,4 @@ Processing by SongsController#index as HTML
   Rendered songs/index.html.erb within layouts/application (0.9ms)
 Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.3ms)
   [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
